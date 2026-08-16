@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0268-missing-number) |
+| [0867-transpose-matrix](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
