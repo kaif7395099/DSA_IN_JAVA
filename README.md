@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0118-pascals-triangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0867-transpose-matrix) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
