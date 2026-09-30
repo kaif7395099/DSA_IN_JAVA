@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaif7395099/DSA_IN_JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
