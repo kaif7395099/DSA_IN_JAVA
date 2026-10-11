@@ -19,7 +19,7 @@ class Solution {
         if(root == null) return ans;
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        while(q.size()>0){
+        while(!q.isEmpty()){
             int size = q.size();
             List<Integer> level = new ArrayList<>();
             for(int i=0;i<size;i++){
